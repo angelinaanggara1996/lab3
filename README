@@ -1,2 +1,2 @@
-To compile question A , just type command g++ -o cows cows.cpp
+To compile question A , just type command g++ -o cows cows.cpp or directly type make at the command line.
 For the question B, when n=1000, the sort time is 0 sec, insertion sort time is 0.01 sec. then, n=10000, the sort time is 0 sec, insertion sort time is 1.27 sec , next n=100000,the sort time is 0.04 sec, the insertion sort time is 128.08 sec and then the last one, n=1000000, the sort time is 0.57 sec and the insertion time takes too long time to run so that i dont take the value, then the summary is sort is using the quicksort,so that the needed time is n log n. Besides that,the insertion sort is using the bubble sort, so that the needed time is n^2.
